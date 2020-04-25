@@ -16,8 +16,8 @@
         "title":"Keddr.com",
         "provider":"wordpress",
         "arguments":[
-          "http://droider.ru/wp-json/wp/v2/",
-          "17931"
+          "https://keddr.com/wp-json/wp/v2/",
+          ""
         ]
       },
       {
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "title":"Keddr.com",
+    "title":"Подкасты",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -40,7 +40,8 @@
         "title":"Новости",
         "provider":"wordpress",
         "arguments":[
-          "https://keddr.com/wp-json/wp/v2/"
+          "http://droider.ru/wp-json/wp/v2/",
+          "17931"
         ]
       },
       {
