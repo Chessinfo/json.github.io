@@ -6,7 +6,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Droider.ru",
+        "title":"Itc.ua",
         "provider":"wordpress",
         "arguments":[
           "http://droider.ru/wp-json/wp/v2/"
@@ -21,11 +21,27 @@
         ]
       },
       {
-        "title":"YouTube",
-        "provider":"youtube",
+        "title":"Droider.ru",
+        "provider":"wordpress",
         "arguments":[
-          "UCY03gpyR__MuJtBpoSyIGnw",
-          "channel"
+          "http://droider.ru/wp-json/wp/v2/",
+          ""
+        ]
+      },
+       {
+        "title":"Wysla.com",
+        "provider":"wordpress",
+        "arguments":[
+          "https://wylsa.com/wp-json/wp/v2/",
+          ""
+        ]
+      },
+      {
+        "title":"prostomob.com",
+        "provider":"wordpress",
+        "arguments":[
+          "https://Prostomob.com/wp-json/wp/v2/",
+          "49"
         ]
       }
     ]
@@ -37,27 +53,19 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Новости",
+        "title":"Keddr.com",
         "provider":"wordpress",
         "arguments":[
-          "http://droider.ru/wp-json/wp/v2/",
-          "17931"
-        ]
-      },
-      {
-        "title": "подкасты",
-        "provider": "wordpress",
-        "arguments": [
           "https://keddr.com/wp-json/wp/v2/",
           "2456"
         ]
       },
       {
-        "title": "обзоры",
+        "title": "Droider.ru",
         "provider": "wordpress",
         "arguments": [
-          "https://keddr.com/wp-json/wp/v2/",
-          "1829"
+          "http://droider.ru/wp-json/wp/v2/",
+          "17931"
         ]
       },
       {
@@ -71,17 +79,17 @@
     ]
   },
   {
-    "title":"Wysla.com",
+    "title":"Обзоры",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Новости",
+        "title":"Keddr.com",
         "provider":"wordpress",
         "arguments":[
-          "https://wylsa.com/wp-json/wp/v2/",
-          ""
+          "https://keddr.com/wp-json/wp/v2/",
+          "1829"
         ]
       },
       {
