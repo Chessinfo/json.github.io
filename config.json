@@ -1,19 +1,19 @@
 [
   {
-    "title":"Droider.ru",
+    "title":"Новости",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Новости",
+        "title":"Droider.ru",
         "provider":"wordpress",
         "arguments":[
           "http://droider.ru/wp-json/wp/v2/"
         ]
       },
       {
-        "title":"подкасты",
+        "title":"Keddr.com",
         "provider":"wordpress",
         "arguments":[
           "http://droider.ru/wp-json/wp/v2/",
