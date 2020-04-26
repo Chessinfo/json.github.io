@@ -37,11 +37,11 @@
         ]
       },
       {
-        "title":"prostomob.com",
+        "title":"Prostomob.com",
         "provider":"wordpress",
         "arguments":[
           "https://Prostomob.com/wp-json/wp/v2/",
-          "49"
+          ""
         ]
       }
     ]
@@ -67,14 +67,6 @@
           "http://droider.ru/wp-json/wp/v2/",
           "17931"
         ]
-      },
-      {
-        "title":"youtube",
-        "provider":"youtube",
-        "arguments":[
-          "UCSpU8Y1aoqBSAwh8DBpiM9A",
-          "channel"
-        ]
       }
     ]
   },
@@ -93,67 +85,67 @@
         ]
       },
       {
-        "title":"YouTube",
-        "provider":"youtube",
+        "title":"Prostomob.com",
+        "provider":"wordpress",
         "arguments":[
-          "UCt7sv-NKh44rHAEb-qCCxvA",
-          "channel"
+          "https://prostomob.com/wp-json/wp/v2/",
+          "50"
         ]
       }
     ]
   },
   {
-    "title":"Itc.ua",
+    "title":"Рейтинги смартфонов",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
       {
-        "title":"Новости",
+        "title":"Prostomob.com",
         "provider":"wordpress",
         "arguments":[
-          "https://itc.ua/wp-json/wp/v2/",
-          ""
+          "https://prostomob.com/wp-json/wp/v2/",
+          "52"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Видео",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Keddr",
+        "provider":"youtube",
+        "arguments":[
+          "UCSpU8Y1aoqBSAwh8DBpiM9A",
+          "channel"
         ]
       },
+      {
+        "title":"Droider",
+        "provider":"youtube",
+        "arguments":[
+          "UCY03gpyR__MuJtBpoSyIGnw",
+          "channel"
+        ]
+      },
+      {
+        "title":"Wylsacom",
+        "provider":"youtube",
+        "arguments":[
+          "UCt7sv-NKh44rHAEb-qCCxvA",
+          "channel"
+        ]
+        },
       {
         "title":"YouTube",
         "provider":"youtube",
         "arguments":[
           "UCkYWH2IiJ8m-i2X6NsfShZA",
           "channel"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Prostomob.com",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Новости",
-        "provider":"wordpress",
-        "arguments":[
-          "https://prostomob.com/wp-json/wp/v2/",
-          "49"
-        ]
-      },
-      {
-        "title": "рейтинги смартфонов",
-        "provider": "wordpress",
-        "arguments": [
-          "https://prostomob.com/wp-json/wp/v2/",
-          "52"
-        ]
-      },
-      {
-        "title": "обзоры",
-        "provider": "wordpress",
-        "arguments": [
-          "https://prostomob.com/wp-json/wp/v2/",
-          "50"
         ]
       }
     ]
