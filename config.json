@@ -9,7 +9,7 @@
         "title":"Itc.ua",
         "provider":"wordpress",
         "arguments":[
-          "http://droider.ru/wp-json/wp/v2/"
+          "https://itc.ua/wp-json/wp/v2/"
         ]
       },
       {
