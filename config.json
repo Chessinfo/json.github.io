@@ -6,18 +6,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Itc.ua",
-        "provider":"wordpress",
-        "arguments":[
-          "https://itc.ua/wp-json/wp/v2/"
-        ]
-      },
-      {
         "title":"Keddr.com",
         "provider":"wordpress",
         "arguments":[
-          "https://keddr.com/wp-json/wp/v2/",
-          ""
+          "https://keddr.com/wp-json/wp/v2/"
         ]
       },
       {
@@ -25,6 +17,14 @@
         "provider":"wordpress",
         "arguments":[
           "http://droider.ru/wp-json/wp/v2/",
+          ""
+        ]
+      },
+      {
+        "title":"Itc.ua",
+        "provider":"wordpress",
+        "arguments":[
+          "https://itc.ua/wp-json/wp/v2/",
           ""
         ]
       },
