@@ -20,14 +20,7 @@
           ""
         ]
       },
-      {
-        "title":"Itc.ua",
-        "provider":"wordpress",
-        "arguments":[
-          "https://itc.ua/wp-json/wp/v2/",
-          ""
-        ]
-      },
+
        {
         "title":"Wysla.com",
         "provider":"wordpress",
